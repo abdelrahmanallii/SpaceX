@@ -12,6 +12,7 @@
     "preview": "vite preview",
     "lint": "eslint . --fix --cache",
     "format": "prettier --write src/",
+    "serve": "vite preview",
     "deploy": "gh-pages -d dist"
 
     
